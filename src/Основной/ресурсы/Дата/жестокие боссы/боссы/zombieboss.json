@@ -1,6 +1,6 @@
 {
   "entity": "minecraft:zombie",
-  "name": "Corvin the Rotten",
+  "name": "Король зомби",
   "visualscale": 1.2,
   "experience": 300,
   "effects": {
@@ -9,15 +9,15 @@
     "generic.max_health": 100,
     "generic.follow_range": 50,
     "generic.knockback_resistance": 10,
-    "generic.attack_damage": 10
+    "generic.attack_damage": 11
   },
   "customattributes": {
-    "dropgear": 1
+    "dropgear": 0
   },
   "gear": {
-    "mainhand": "{id: \"minecraft:netherite_hoe\", Count: 1b, tag: {Damage: 0}}",
+    "mainhand": "{id: \"minecraft:netherite_sword\", Count: 1b, tag: {Damage: 0}}",
     "chestplate": "{id: \"minecraft:netherite_chestplate\", Count: 1b, tag: {Damage: 0}}",
-    "helmet": "{id: \"minecraft:netherite_helmet\", Count: 1b, tag: {Damage: 0}}",
+    "helmet": "{id: \"minecraft:golden_helmet\", Count: 1b, tag: {Damage: 0}}",
     "leggings": "{id: \"minecraft:netherite_leggings\", Count: 1b, tag: {Damage: 0}}",
     "feet": "{id: \"minecraft:netherite_boots\", Count: 1b, tag: {Damage: 0}}"
   },
